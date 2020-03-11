@@ -1,0 +1,508 @@
+#contact{
+    background-color: #fef7f6;
+    
+}
+.Phone{
+    float: left;
+    font-size: 11px;
+    text-transform: uppercase;
+     
+}
+.email{
+    font-size: 11px;     
+    text-transform: uppercase; 
+}
+ .gift_box{
+     float: left;
+     font-size: 11px;   
+     margin-right: 20px;
+     padding-left: 40px;
+     text-transform: uppercase;
+ }
+ .first{
+     margin-left: 45px;
+ }
+ .navigationn{
+     background-color: #fff;
+ }
+
+ 
+ .fa{
+     font-size: 20px;
+ }
+ 
+.banner-section{
+    background-color: #e3938c;
+     
+}
+.hero{
+    margin-top: 140px;
+}
+.sml{
+    margin-left: 70px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+.headd{
+    font-weight: bold;
+}
+
+.color-btn{
+    background-color: #ff5353;
+    padding: 7px 14px;
+    color: #fff;
+    margin-left: -8px;
+    margin-top: 9px;
+    display: inline-block;
+    font-size: 11px;
+    width: 95px;
+     
+}
+#feature img{
+    position: relative;
+    margin-bottom: 5px;
+}
+.action-links{
+    position: absolute;
+    bottom: 210px;
+    left: 50%;
+   
+    transform: translateX(-50%);
+    
+    transition: all 300ms ease;
+    width: 100%;
+    text-align: center;
+     
+}
+.action-links a{
+    text-decoration: none;
+    color: blanchedalmond;
+     margin-right: 20px;
+     background-color: crimson;
+     display: inline-block;
+     height: 60px;
+     width: 60px;
+     border-radius: 50%;
+
+}
+.action-links .fa-eye{
+    text-align: center;
+    margin-top: 20px;
+
+}
+.action-links .fa-heart-o{
+    text-align: center;
+    margin-top: 20px;
+
+}
+.action-links .fa-shopping-cart{
+    text-align: center;
+    margin-top: 20px;
+
+}
+.action-links a:hover{
+    background-color: #fff;
+    color: crimson;
+}
+.fa-star-o{
+    color: crimson;
+}
+#banner-section-two{
+    background-color: rgb(205, 209, 218);
+}
+.Marginn{
+    margin-top: 130px;
+}
+#carosel{
+    background-color: white;
+    margin-bottom: 35px;
+}
+.owl-carousel div{
+    margin: 5px;
+}
+#service{
+    margin-top: -400px;
+}
+ 
+#service i{
+    font-size: 55px;
+    margin-bottom: 10px;
+    margin-left: 75px;
+    color: tomato;
+}
+#service h6{
+    font-weight: medium;
+    font-size: 15px;
+    text-align: center;
+}
+#trending h3{
+    font-weight: bold;
+}
+#trending img{
+    position: relative;
+    margin-bottom: 5px;
+}
+#trending .action-links a{
+    text-decoration: none;
+    color: blanchedalmond;
+     margin-right: 5px;
+     background-color: crimson;
+     display: inline-block;
+     height: 60px;
+     width: 60px;
+     border-radius: 50%;
+
+}
+#trending .action-links a:hover{
+    background-color: #fff;
+    color: crimson;
+}
+#trending{
+    margin-top: 70px;
+}
+#journal .silom{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.bordr{
+    position: relative;
+    margin-left: 35px;
+}
+.bordr::before{
+    content: '';
+    position: absolute;
+    top: 6px;
+    left: -22px;
+    right: 0;
+    bottom: 0;
+    background-color: #ff5353;
+    border-radius: 2px;
+    width: 12px;
+    height: 6px;
+     
+}
+.bordr:hover{
+    color: #ff5353;
+    cursor: pointer;
+}
+.land{
+    font-size: 20px;
+    font-weight: bold;
+}
+.land:hover{
+    color: #ff5353;
+    cursor: pointer;
+}
+.forICon{
+    color: #2c2a2a;
+}
+.forICon:hover{
+    color: #ff5353;
+    cursor: pointer;
+}
+#follow img{
+    position: relative;
+}
+
+.followHver i {
+    font-size: 50px;
+    position: absolute;
+    top: 0px;
+    left: 16px;
+    color: white;
+    background-color: tomato;
+    padding: 108px;
+    bottom: 0px; 
+    opacity: 0;
+}
+.followHver i:hover {
+    font-size: 50px;
+    position: absolute;
+    top: 0px;
+    left: 15px;
+    color: white;
+    background-color: tomato;
+    padding: 108px;
+    bottom: 0px; 
+     opacity: 0.7;
+}
+footer{
+    background-color: rgb(197, 189, 189);
+    
+}
+footer h4{
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: 20px;
+}
+ 
+.fa-android{
+    font-size: 24px;
+    
+}
+.fa-android small{
+    font-size: 12px;
+}
+.fa-facebook-square{
+    background-color: white;
+    padding: 10px;
+}
+.fa-facebook-square:hover{
+    background-color: tomato;
+    color: white;
+}
+.fa-pinterest-square{
+    background-color: white;
+    padding: 10px;
+}
+.fa-pinterest-square:hover{
+    background-color: tomato;
+    color: white;
+}
+.fa-instagram{
+    background-color: white;
+    padding: 10px;
+}
+.fa-instagram:hover{
+    background-color: tomato;
+    color: white;
+}
+.fa-twitter-square{
+    background-color: white;
+    padding: 10px;
+}
+.fa-twitter-square:hover{
+    background-color: tomato;
+    color: white;
+}
+ 
+@media (max-width:1199px)
+{
+    #service i{
+        font-size: 55px;
+        margin-bottom: 10px;
+        margin-left: 63px;
+        color: tomato;
+    }
+    #service h6{
+        font-weight: medium;
+        font-size: 11px;
+        text-align: center;
+    }
+    #trending .action-links a{
+        text-decoration: none;
+        color: blanchedalmond;
+         margin-right: 5px;
+         background-color: crimson;
+         display: inline-block;
+         height: 45px;
+         width: 45px;
+         border-radius: 50%;
+    
+    }
+    .fa-eye{
+        font-size: 15px;
+    }
+    .fa-heart-o{
+        font-size: 15px;
+    }
+    .fa-shopping-cart{
+        font-size: 15px;
+    }
+    .followHver i {
+        font-size: 40px;
+        position: absolute;
+        top: 0px;
+        left: 16px;
+        color: white;
+        background-color: tomato;
+        padding: 88px;
+        bottom: 0px; 
+        opacity: 0;
+    }
+    .followHver i:hover {
+        font-size: 40px;
+        position: absolute;
+        top: 0px;
+        left: 15px;
+        color: white;
+        background-color: tomato;
+        padding: 88px;
+        bottom: 0px; 
+         opacity: 0.7;
+    }
+}
+@media (max-width:991px){
+    .gift_box {
+        float: left;
+        font-size: 11px;
+        margin-right: 5px;
+        padding-left: 22px;
+        text-transform: uppercase;
+    }
+    .hero{
+        margin-top: 70px;
+    }
+    .action-links a{
+        text-decoration: none;
+        color: blanchedalmond;
+         margin-right: 20px;
+         background-color: crimson;
+         display: inline-block;
+         height: 40px;
+         width: 40px;
+         border-radius: 50%;
+    
+    }
+    .action-links .fa-eye{
+        text-align: center;
+        margin-top: 12px;
+    
+    }
+    .action-links .fa-heart-o{
+        text-align: center;
+        margin-top: 12px;
+    
+    }
+    .action-links .fa-shopping-cart{
+        text-align: center;
+        margin-top: 12px;
+    
+    }
+    .Marginn {
+        margin-top: 29px;
+    }
+    .starIcon{
+        font-size: 15px;
+    }
+    #service{
+        margin-top: -350px;
+    }
+    #service i {
+        font-size: 42px;
+        margin-bottom: 10px;
+        margin-left: 37px;
+        color: tomato;
+    }
+    .action a{
+        text-decoration: none;
+        color: blanchedalmond;
+         margin-right: 20px;
+         background-color: crimson;
+         display: inline-block;
+         height: 30px;
+         width: 30px;
+         border-radius: 50%;
+    
+    }
+    .action .fa-eye{
+        text-align: center;
+        margin-top: 12px;
+    
+    }
+    .action .fa-heart-o{
+        text-align: center;
+        margin-top: 12px;
+    
+    }
+    .action .fa-shopping-cart{
+        text-align: center;
+        margin-top: 12px;
+    
+    }
+    
+    .followHver i:hover {
+        font-size: 40px;
+        position: absolute;
+        top: 0px;
+        left: 15px;
+        color: white;
+        background-color: tomato;
+        padding: 58px;
+        bottom: 0px; 
+        opacity: 0.7;
+    }
+}
+@media (max-width:767px){
+ 
+ #contact{
+     display: none;
+ }
+
+ .icon{
+     display: none;
+ }
+ 
+    .hero{
+     margin-bottom: 95px;
+      
+ }
+ .sml{
+    margin-left: 13px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+.imgWidth{
+    width: 680px;
+    height: 680px;
+}
+.followHver i:hover {
+	font-size: 40px;
+	position: absolute;
+	top: 0px;
+	left: 15px;
+	color: white;
+	background-color: tomato;
+	padding: 103px;
+	bottom: 0px;
+	opacity: 0.7;
+}
+}
+@media (max-width:575px){
+    .featureImg{
+        width: 540px;
+    }
+    #service i {
+        font-size: 42px;
+        margin-bottom: 10px;
+        margin-left: 231px;
+        color: tomato;
+    }
+    #service h6{
+        font-weight: medium;
+        font-size: 19px;
+        text-align: center;
+    }
+    .trendingImg{
+        width: 540px;
+    }
+    .followHver i:hover {
+       display: none;
+    }
+}
+@media (max-width:488px){
+    .starIcon {
+        font-size: 12px;
+    }
+    #service i {
+        font-size: 42px;
+        margin-bottom: 10px;
+        margin-left: 191px;
+        color: tomato;
+    }
+}
+@media (max-width:400px){
+    .starIcon {
+        font-size: 10px;
+    }
+    #service{
+        margin-top: -300px;
+    }
+    #service i {
+        font-size: 42px;
+        margin-bottom: 10px;
+        margin-left: 131px;
+        color: tomato;
+    }
+}
